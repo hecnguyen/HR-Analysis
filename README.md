@@ -1,4 +1,4 @@
-# HR-Analyst
+# HR Analysis
 Analyzing Human Resource (HR) data to see why people resigning
 <h2>Introduction</h2>
 
