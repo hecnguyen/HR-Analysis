@@ -17,7 +17,7 @@ Analyzing Human Resource (HR) data to see why people are resigning
 
 ![Screenshot 2024-08-29 193719](https://github.com/user-attachments/assets/a89a2747-6536-4f6d-8c5b-f5b8b99954f4)
 
-<p>• The Sales department has the highest attrition rates
+<p>• The Sales Department has the highest attrition rates
    
 • Research and Development has the lowest attrition rates, this means Research and Development department has the most stability</p>
 
