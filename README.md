@@ -67,5 +67,5 @@ Analyzing Human Resource (HR) data to see why people are resigning
 
 • Offering employees additional stock options helps to strengthen the employee loyalty to the company
 
-• Investiage why people with higher level of work life balance often leave the company to find better opportunities</p>
+• Investigate why people with higher level of work life balance often leave the company to find better opportunities</p>
 
