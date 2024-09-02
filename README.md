@@ -63,9 +63,9 @@ Analyzing Human Resource (HR) data to see why people are resigning
 • Those with significant experience across multiple companies tend to stay longer with the company they join</p>
   
 <h2>Recommendations & Next Steps</h2>
-<p>• 
+<p>• Explore ways to enhance job satisfaction and work environment satisfaction to foster employee loyalty to the company
 
-• 
+• Offering employees additional stock options helps to strengthen the employee loyalty to the company
 
-•</p>
+• Investiage why people with higher level of work life balance often leave the company to find better opportunities</p>
 
