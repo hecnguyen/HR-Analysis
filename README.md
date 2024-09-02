@@ -1,5 +1,5 @@
 # HR Analysis
-Analyzing Human Resource (HR) data to see why people resigning
+Analyzing Human Resource (HR) data to see why people are resigning
 <h2>Introduction</h2>
 
 <h2>Summary of Insights</h2>
