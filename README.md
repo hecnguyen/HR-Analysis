@@ -1,6 +1,6 @@
-# HR Analysis
-Analyzing Human Resource (HR) data to see why people are resigning
 <h2>Introduction</h2>
+
+In this project, I wanted to analyze human resource data to see why people are resigning. I wanted to see how this organization could improve in their workforce performance. This dataset includes 35 columns however, I only used about 15 columns to do my research. 
 
 <h2>Summary of Insights</h2>
 
