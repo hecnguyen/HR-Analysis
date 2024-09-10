@@ -1,6 +1,6 @@
 <h2>Introduction</h2>
 
-In this project, I wanted to analyze human resource data to see why people are resigning. I wanted to see how this organization could improve in their workforce performance. This is a fictional dataset created by IBM to explore the reasons behind employee attrition and performance. Attrition is when employees are leaving the organization for any reason and is not replaced for a long time or ever. This dataset includes 35 columns with over 1000 entries, which includes department, job satisfaction, work-life balance, monthly rate, etc. 
+In this project, I wanted to analyze human resource data to see why people are resigning. I wanted to see how this organization could improve in their workforce performance. This is a fictional dataset created by IBM to explore the reasons behind employee attrition and performance. Attrition is the turnover rate of employees inside an organization. The employees could leave the organization because of bad management, negative work environment, or looking for better opportunities. This dataset includes 35 columns with over 1000 entries, which includes department, job satisfaction, work-life balance, monthly rate, etc. 
 
 <h2>Summary of Insights</h2>
 
